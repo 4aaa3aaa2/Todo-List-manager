@@ -1,3 +1,5 @@
+This is a todo list manager written with React and Next.js, originally run on cloud9 on AWS.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
